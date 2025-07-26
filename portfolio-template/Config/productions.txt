@@ -1,0 +1,29 @@
+# Each production should be separated by three dashes (---)
+# When you add one then productions.js will automatically add it after saving
+# Format: Title, Company, Time, Thumbnail URL, Description 
+---
+Graphic Designer
+Strategic Energy Innovation (SEI)
+August 2019 - June 2020
+https://media.licdn.com/dms/image/v2/C560BAQFEqsDTB-EE9Q/company-logo_200_200/company-logo_200_200/0/1630666798084/strategic_energy_innovations_logo?e=2147483647&v=beta&t=bgsOzT9BcoHuhkTvZPHzNqb1aMxnuyVK25wgMEmsVWI 
+Created digital and physical deliverables for food conservation and waste projects. Conducted research and communicated with professional clients. Adapted to remote working during Covid-19.
+
+---
+Graphic Designer
+Community of Linda Vista
+August 2021 - June 2022
+https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_27969304/Image/Departments/College,%20Career%20and%20Technical%20Education%20(CCTE)/About%20CCTE/logo1wbgrd%20trans.png 
+Developed digital and physical materials addressing air quality and housing crises. Collaborated with community members and stakeholders. Worked remotely to meet project deadlines.
+
+---
+Graphic & 3D Designer
+STEM Agents of Change
+Date (i.e 2020-present or 2016-2023)
+https://cdn.takeflyte.com/uploads/2023/05/15121429/AOC-Podcast.png 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+---
+Visual Arts Designer Internship
+Division 05
+June 2022 - 2023
+https://yt3.googleusercontent.com/ytc/AIdro_kyoY-MgwLKw5HTKBK1SuHXvaPkxbT-Zfn5Tldvqbcnyg=s900-c-k-c0x00ffffff-no-rj
+Applied photo basing techniques to enhance visual projects. Focused on detail amplification, compositing, depth, and lighting. Designed high-end style frames with a strong emphasis on visual relationships and intentional hierarchy.
