@@ -6,6 +6,9 @@ Adobe Illustrator
 Adobe Animate
 Adobe Premiere Pro
 Adobe After Effects
+VS Code
+GitHub
+GoDot
 ArcGIS
-Substance 3d Painter
+Substance 3D Painter
 Unreal Engine

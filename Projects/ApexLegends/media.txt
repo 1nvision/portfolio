@@ -1,6 +1,6 @@
 
 https://i.postimg.cc/Jn4zS7b3/apexlegends-trace-final.png
-Description for example2.jpg.
+Below are 2 versions of the final image. One with just the line work (single line), and the other with just the color of the final product.
 
 https://i.postimg.cc/pr5Rtmyj/apexlegends-trace1.png // https://i.postimg.cc/nhC5Ryjs/apexlegends-trace3.png
 You can create before and after slider by seperating two urls with ' // ' 

@@ -13,7 +13,7 @@ function addUserInformation() {
         .then(response => response.text())
         .then(data => {
             const lines = data.split('\n').map(line => line.trim());
-            const [profilePicUrl, profileName, profileRole, location, ...socials] = lines;
+            const [profilePicUrl, profileName, profileRole, location, ...socials] = lines;  
 
             // Get the container where the user info should be added
             const container = document.querySelector('.top-container'); // Select the specific container
@@ -27,7 +27,7 @@ function addUserInformation() {
 
             // Create and append the image
             const img = document.createElement("img");
-            img.src = profilePicUrl; // Your Profile Pic URL from txt
+            img.src = profilePicUrl; // Profile Pic URL from txt
             img.alt = "Profile Picture";
             img.className = "profile-pic";
             userInfoPanel.appendChild(img);
@@ -39,13 +39,13 @@ function addUserInformation() {
 
             const userName = document.createElement("h1");
             userName.className = "user-name";
-            userName.textContent = profileName; // Your Profile Name from txt
+            userName.textContent = profileName; // Profile Name from txt
             userNameLink.appendChild(userName);
             userInfoPanel.appendChild(userNameLink);
 
             // Create and append the user role
             const userRole = document.createElement("h2");
-            userRole.textContent = profileRole; // Your Current Title & Studio from txt
+            userRole.textContent = profileRole; // Current Title & Studio from txt
             userInfoPanel.appendChild(userRole);
 
             // Create and append the location
@@ -58,7 +58,7 @@ function addUserInformation() {
             userLocationContainer.appendChild(locationIcon);
 
             const userLocation = document.createElement("h2");
-            userLocation.textContent = location; // Your Location from txt
+            userLocation.textContent = location; // Location from txt
             userLocationContainer.appendChild(userLocation);
 
             userInfoPanel.appendChild(userLocationContainer);

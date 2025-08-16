@@ -54,8 +54,10 @@
   transition: color 0.3s;
 }
 
+/*Alexis was here*/
+
 .social-icons a:hover {
-  color: #edb049 !important;;
+  color: #0dc3df !important;;
 }
 
 .user-location-container {
