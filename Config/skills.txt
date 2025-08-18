@@ -12,3 +12,8 @@ Weapon Modelling
 Level Design
 Animation
 Website Design
+HTML
+CSS
+JavaScript
+Python
+GDScript
