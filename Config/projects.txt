@@ -7,3 +7,5 @@ HeartofGlass
 ApexLegends
 Raven
 Study
+FroggerRemake
+FroggerRemake2

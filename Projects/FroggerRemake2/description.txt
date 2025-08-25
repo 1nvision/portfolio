@@ -1,0 +1,9 @@
+Frogger Remake Character 2
+---
+The second "version" of the character after going through a portal.
+---
+Aseprite
+---
+https://i.postimg.cc/02dpnbvD/jump-animredd.gif
+---
+froggerremake2.html
