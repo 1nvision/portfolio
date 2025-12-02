@@ -1,26 +1,13 @@
 # Each production should be separated by three dashes (---)
 # When add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
----
-Graphic Designer
-Strategic Energy Innovation (SEI)
-August 2019 - June 2020
-https://media.licdn.com/dms/image/v2/C560BAQFEqsDTB-EE9Q/company-logo_200_200/company-logo_200_200/0/1630666798084/strategic_energy_innovations_logo?e=2147483647&v=beta&t=bgsOzT9BcoHuhkTvZPHzNqb1aMxnuyVK25wgMEmsVWI 
-Created digital and physical deliverables for food conservation and waste projects. Conducted research and communicated with professional clients. Adapted to remote working during Covid-19.
 
 ---
-Graphic Designer
-Community of Linda Vista
-August 2021 - June 2022
-https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_27969304/Image/Departments/College,%20Career%20and%20Technical%20Education%20(CCTE)/About%20CCTE/logo1wbgrd%20trans.png 
-Developed digital and physical materials addressing air quality and housing crises. Collaborated with community members and stakeholders. Worked remotely to meet project deadlines.
-
----
-Graphic & 3D Designer
-STEM Agents of Change
-August 2022 - June 2023
-https://agentsofchangeinej.org/wp-content/uploads/2021/07/New-AoC-Logos-1-1024x1024.png
-Designed, developed, and created digital and physical materials/objects related to the underrepresented person in STEM that we interviewed and got to know. The items created were a 3D model pertaining to what we thought their profession was based on a small paragraph of information before the interview. As well as a small magazine that told their story and informed viewers about their achievements and struggles.
+Videographer Assistant 
+Prismedia
+November 2025 - December 2025
+https://media.licdn.com/dms/image/v2/C560BAQHbv-RWPnMp8w/company-logo_200_200/company-logo_200_200/0/1631431732748?e=2147483647&v=beta&t=Tb2_wfYQtwE71z9_9aJncex9hwFtrB2iDTGE0J0-IDs
+Assisted drone videographer by coordinating safe flight locations and monitoring potential obstacles. Managed drone operations support, including battery swaps, SD card dumps/replacements, and organized file transfers. Collaborated on shot planning by advising on drone angles and positioning to capture event highlights. Communicated with on-site police and event staff to ensure compliant and safe drone flight zones. Maintained efficient workflow through organized media management and timely equipment preparation.
 ---
 Visual Arts Designer Internship
 Division 05
@@ -28,8 +15,20 @@ June 2022 - 2023
 https://yt3.googleusercontent.com/ytc/AIdro_kyoY-MgwLKw5HTKBK1SuHXvaPkxbT-Zfn5Tldvqbcnyg=s900-c-k-c0x00ffffff-no-rj
 Applied photo basing techniques to enhance visual projects. Focused on detail amplification, compositing, depth, and lighting. Designed high-end style frames with a strong emphasis on visual relationships and intentional hierarchy.
 ---
-Videographer Assistant 
-Prismedia
-November 2025 - December 2025
-https://media.licdn.com/dms/image/v2/C560BAQHbv-RWPnMp8w/company-logo_200_200/company-logo_200_200/0/1631431732748?e=2147483647&v=beta&t=Tb2_wfYQtwE71z9_9aJncex9hwFtrB2iDTGE0J0-IDs
-Assisted drone videographer by coordinating safe flight locations and monitoring potential obstacles. Managed drone operations support, including battery swaps, SD card dumps/replacements, and organized file transfers. Collaborated on shot planning by advising on drone angles and positioning to capture event highlights. Communicated with on-site police and event staff to ensure compliant and safe drone flight zones. Maintained efficient workflow through organized media management and timely equipment preparation.
+Graphic & 3D Designer
+STEM Agents of Change
+August 2021 - June 2022
+https://agentsofchangeinej.org/wp-content/uploads/2021/07/New-AoC-Logos-1-1024x1024.png
+Designed, developed, and created digital and physical materials/objects related to the underrepresented person in STEM that we interviewed and got to know. The items created were a 3D model pertaining to what we thought their profession was based on a small paragraph of information before the interview. As well as a small magazine that told their story and informed viewers about their achievements and struggles.
+---
+Graphic Designer
+Community of Linda Vista
+August 2020 - June 2021
+https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_27969304/Image/Departments/College,%20Career%20and%20Technical%20Education%20(CCTE)/About%20CCTE/logo1wbgrd%20trans.png 
+Developed digital and physical materials addressing air quality and housing crises. Collaborated with community members and stakeholders. Worked remotely to meet project deadlines.
+---
+Graphic Designer
+Strategic Energy Innovation (SEI)
+August 2019 - June 2020
+https://media.licdn.com/dms/image/v2/C560BAQFEqsDTB-EE9Q/company-logo_200_200/company-logo_200_200/0/1630666798084/strategic_energy_innovations_logo?e=2147483647&v=beta&t=bgsOzT9BcoHuhkTvZPHzNqb1aMxnuyVK25wgMEmsVWI 
+Created digital and physical deliverables for food conservation and waste projects. Conducted research and communicated with professional clients. Adapted to remote working during Covid-19.

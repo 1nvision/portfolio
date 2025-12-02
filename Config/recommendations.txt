@@ -4,3 +4,8 @@ Game created during college
 https://1nvision.itch.io/last-shikka
 2D pixel art platformer game that I am currently working on and uploaded a prototype to itch.io
 ---
+Nosey Adventure
+https://i.postimg.cc/66dGnkp7/image-2025-12-02-013925787.jpg
+Another game created with team of 3
+https://chaktis.github.io/Nosey-Adventure/
+2D pixel art platformer puzzle adventure game that was created in 8 weeks
