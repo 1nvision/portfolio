@@ -17,3 +17,5 @@ CSS
 JavaScript
 Python
 GDScript
+Music Production
+Sound Design

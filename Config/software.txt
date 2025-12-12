@@ -1,5 +1,6 @@
 Blender
 Unity
+D5 Render
 Substance 3D Painter
 Unreal Engine
 Zbrush
@@ -9,9 +10,14 @@ Adobe Animate
 Adobe Premiere Pro
 Adobe After Effects
 Aseprite
+GDevelop
+Tiled
+Phaser
 VS Code
 GitHub
 GoDot
 ArcGIS
 Reaper
+VCV Rack
+FMOD Studio
 
