@@ -1,0 +1,9 @@
+Little Guy
+---
+The character animations I made for Nosey Adventure.
+---
+Aseprite
+---
+https://i.postimg.cc/nLfX2Znd/deathl.gif
+---
+littleguy.html

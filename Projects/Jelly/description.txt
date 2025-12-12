@@ -1,0 +1,9 @@
+Jelly
+---
+An enemy I made for the water area of Nosey Adventure.
+---
+Aseprite
+---
+https://i.postimg.cc/yxpP3W4g/jellybig.gif
+---
+jelly.html

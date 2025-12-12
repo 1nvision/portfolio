@@ -1,0 +1,9 @@
+Floater
+---
+An enemy I made for a 2D side scrolling game protoype for class in college.
+---
+Aseprite
+---
+https://i.postimg.cc/WbcwDRkp/floater.gif
+---
+floater.html

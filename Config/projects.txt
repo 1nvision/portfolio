@@ -8,5 +8,8 @@ Raven
 Samurai
 Study
 Rotoscope
+Floater
+Littleguy
+Jelly
 FroggerRemake
 FroggerRemake2
