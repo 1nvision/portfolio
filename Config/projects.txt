@@ -6,6 +6,7 @@ AgentsOfChange
 HeartofGlass
 ApexLegends
 Raven
+Samurai
 Study
 FroggerRemake
 FroggerRemake2

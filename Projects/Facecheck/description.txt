@@ -1,6 +1,6 @@
 Magazine Cover
 ---
-Project Description
+Created a mock magazine cover for a fake magazine company with event that had been happening in the Esports scene at that time.
 ---
 Photoshop, Lightroom
 ---

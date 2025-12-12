@@ -1,6 +1,6 @@
 Boat in River
 ---
-Project Description
+A single unmanned canoe floating down a calm river while the reflection of the water shows trees sprouting from the ground.
 ---
 Photoshop, Lightroom
 ---

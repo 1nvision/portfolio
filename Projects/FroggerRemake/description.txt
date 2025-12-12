@@ -1,6 +1,6 @@
 Frogger Remake Character
 ---
-Project Description
+Frogger character created for a different version of frogger with levels and power-ups.
 ---
 Aseprite
 ---
