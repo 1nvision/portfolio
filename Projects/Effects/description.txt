@@ -1,0 +1,9 @@
+Spells/Effects
+---
+Spells and certain splash effects that I made as a personal study during school.
+---
+Aseprite, Notebook
+---
+https://i.postimg.cc/hGqXtvqP/spells-animb.gif
+---
+effects.html

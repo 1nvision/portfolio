@@ -11,5 +11,6 @@ Rotoscope
 Floater
 Littleguy
 Jelly
+Effects
 FroggerRemake
 FroggerRemake2
