@@ -6,6 +6,7 @@ HeartofGlass
 ApexLegends
 Raven
 Samurai
+Fairy
 Study
 Rotoscope
 Floater
