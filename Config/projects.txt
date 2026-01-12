@@ -9,7 +9,6 @@ Samurai
 Fairy
 Study
 Rotoscope
-Floater
 Littleguy
 Jelly
 Effects
