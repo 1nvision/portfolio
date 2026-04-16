@@ -1,6 +1,6 @@
 Magazine Cover
 ---
-Created a mock magazine cover for a fake magazine company with event that had been happening in the Esports scene at that time.
+Created a mock magazine cover for a fake magazine company with event that had been happening in the Esports scene at that time.  I grabbed a picture off the internet and then adjusted the lighting and values of the image in Lightroom. I then put the image into photoshop and added  the text that were specific events happening at that time. Along with a name for the Magazine that I made up based on what the topics were related to.
 ---
 Photoshop, Lightroom
 ---
