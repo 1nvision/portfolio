@@ -1,0 +1,9 @@
+Black Hole
+---
+Black Hole created in Blender. I started out by making a sphere and then adding a shader node to it to make it so that it had multiple layers like an onion, I then made the material transparent and added more math and shader nodes to make it so that the light behind and around the sphere started to bend. I then added a plane to the scene and placed the sphere at its center. I added noise textures and modifiers to make the plane have thickness so that the noise had somewhere to be seen on the plane and around the sphere. I then added a solid black sphere to the center of the black hole to complete it. 
+---
+Blender
+---
+https://i.postimg.cc/tR3cyh65/composite-black-hole.png
+---
+blackhole.html
