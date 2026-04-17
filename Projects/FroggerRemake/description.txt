@@ -1,6 +1,7 @@
 Frogger Remake Character
 ---
-Frogger character created for a different version of frogger with levels and power-ups.
+Frogger character created for a different version of frogger with levels and power-ups. Created an image of a 48x48 frog then filled it in with the colors that matched the theme of the level in the game. Then added another “skin” for the other level. Created 2 other images that included how the frog looked when landing and in the air. Placed a few frames in between to make the animation smoother.
+
 ---
 Aseprite
 ---
