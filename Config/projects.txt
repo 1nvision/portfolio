@@ -10,8 +10,5 @@ Samurai
 Fairy
 Study
 Rotoscope
-Littleguy
-Jelly
 Effects
 FroggerRemake
-FroggerRemake2
