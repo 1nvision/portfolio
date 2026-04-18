@@ -3,6 +3,7 @@ Unity
 D5 Render
 Substance 3D Painter
 Unreal Engine
+Houdini
 Zbrush
 Adobe Photoshop
 Adobe Illustrator
