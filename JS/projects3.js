@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const fetchProjects = async () => {
         try {
-            const response = await fetch('../../Config2/vidprojects.txt');
+            const response = await fetch('../../Config2/photos.txt');
             const text = await response.text();
             return text.split('\n').map(line => line.trim()).filter(line => line);
         } catch (error) {
@@ -386,7 +386,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Keyboard navigation
     document.addEventListener('keydown', (event) => {
         if (event.key === 'Escape') {
-            window.location.href = '../../videos.html';
+            window.location.href = '../../photos.html';
         } else if (event.key === 'ArrowLeft') {
             navigateProjects(-1);
         } else if (event.key === 'ArrowRight') {
