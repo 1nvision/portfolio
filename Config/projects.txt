@@ -10,6 +10,7 @@ Samurai
 Fairy
 Study
 Rotoscope
+Planet
 SDFC
 Effects
 FroggerRemake
