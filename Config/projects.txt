@@ -3,6 +3,7 @@ BlackHole
 Planet
 SDFC
 BoatInRiver
+Cloth
 Facecheck
 AgentsOfChange
 HeartofGlass
