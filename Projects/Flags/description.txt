@@ -1,0 +1,9 @@
+Circle of Flags
+---
+Cloth simulation study as well as wind physics and hook physics for cloth simulation. Follow path and camera simulation for walking in the video.
+---
+Blender
+---
+https://i.postimg.cc/sfBDmFWb/lotus-flag-sim.gif
+---
+flags.html
