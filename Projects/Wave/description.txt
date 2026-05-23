@@ -1,0 +1,9 @@
+SD Wave FC Logo
+---
+Wave FC logo animation that incorperated camera movement, wind physics, and particle simulation.
+---
+Blender
+---
+https://i.postimg.cc/BZmmnw3J/image-2026-05-23-135918174.jpg
+---
+wave.html
