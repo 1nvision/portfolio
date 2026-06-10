@@ -1,6 +1,6 @@
 Planets
 ---
-Made a texture that included noise texture and bump node to make it seem like there are clouds and terrain as well as depth on the sphere. Then added 2 rings and attatched cubes with the array modifier and follow path constraint in order to have them rotate along the local axis instead of the global axis.
+Made a texture that included noise texture and bump node to make it seem like there are clouds and terrain as well as depth on the sphere. Then added 2 rings and attached cubes with the array modifier and follow path constraint in order to have them rotate along the local axis instead of the global axis.
 ---
 Blender
 ---
