@@ -1,0 +1,9 @@
+Shepherd
+---
+Short animation of a character from a visual story called "The Shepherd Wizerd" that was created in 3D by modeling, sculpting, cloth simulations, shader editor, and geometry nodes.
+---
+Blender
+---
+https://i.postimg.cc/bNCRF7hV/shep-updated-7-4.png
+---
+shepherd.html
